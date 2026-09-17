@@ -1,1 +1,1 @@
-# Repository-name-vlu-qe-pipeline-master
+vlu-qe-pipeline-master
