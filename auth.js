@@ -19,3 +19,4 @@ function login(username, password) {
 }
 
 module.exports = { login };
+//Updated login validation for Lab 01
